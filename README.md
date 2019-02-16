@@ -15,7 +15,7 @@ The project structure is adopted and modified from [Tensorflow Project Template]
 Steps to run the project:
 `git clone https://github.com/mahsayedsalem/cifar100-classification.git`
 
-The cifar100.cofig.json file contains all the hyperparameters for the experiment. 
+The cifar100_cofig.json file contains all the hyperparameters for the experiment. 
 
 Open it and add the cifar-100 train and test pickles path
 
