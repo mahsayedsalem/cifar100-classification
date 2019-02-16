@@ -1,0 +1,11 @@
+{
+  "exp_name": "cifar100_finalexp2",
+  "num_epochs": 300,
+  "num_iter_per_epoch": 10,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "max_to_keep":5,
+  "train_path":"data/train",
+  "test_path":"data/test",
+  "keep_prop": 0.5
+}
