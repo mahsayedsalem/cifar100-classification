@@ -8,10 +8,9 @@ Loss graph
 
 ![Validation Loss](https://raw.githubusercontent.com/mahsayedsalem/cifar100-classification/master/images/val_loss.PNG)
 
-The initial experiments was done on Colab, follow the link in case you want to up and running in no time:
-https://colab.research.google.com/drive/1PF5q1AtU0CMOEdz8oWEb9SIviBvNx6QW
+The initial experiments was done on Colab, press [here](https://colab.research.google.com/drive/1PF5q1AtU0CMOEdz8oWEb9SIviBvNx6QW "here") in case you want to up and running in no time in Colab. 
 
-The project structure is adopted and modified from https://github.com/MrGemy95/Tensorflow-Project-Template
+The project structure is adopted and modified from [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template "Tensorflow Project Template")
 
 Steps to run the project:
 `git clone https://github.com/mahsayedsalem/cifar100-classification.git`
